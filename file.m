@@ -3,5 +3,9 @@
 %its Geri here
 =======
 Hello?
+<<<<<<< HEAD
+%Sup dude? 
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
 %Hello 2
