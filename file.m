@@ -9,3 +9,4 @@ Hello?
 >>>>>>> origin/master
 >>>>>>> origin/master
 %Hello 2
+%Hello from Jonas
