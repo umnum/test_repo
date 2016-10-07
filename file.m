@@ -4,3 +4,4 @@
 =======
 Hello?
 >>>>>>> origin/master
+%Hello 2
