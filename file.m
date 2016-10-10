@@ -6,6 +6,7 @@ Hello?
 <<<<<<< HEAD
 %Sup dude? 
 What
+GIT HYPE!
 =======
 >>>>>>> origin/master
 >>>>>>> origin/master
