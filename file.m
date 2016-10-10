@@ -5,6 +5,7 @@
 Hello?
 <<<<<<< HEAD
 %Sup dude? 
+What
 =======
 >>>>>>> origin/master
 >>>>>>> origin/master
