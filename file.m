@@ -12,5 +12,5 @@ GIT HYPE!
 >>>>>>> origin/master
 %Hello 2
 %Hello from Jonas
-
+% Karina was here
 ...
